@@ -9,4 +9,6 @@ int main () {
 	cout << "Luas Rumah		: "<<luasRmh<<" m2"<<endl;
 	cout << "Luas 1 Box Parket	: "<<luasBox<<" m2"<<endl;
 	
+	double jumlahBox, bayarParket, bayarPasang, totalBayar;
+	
 }
